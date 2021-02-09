@@ -3,7 +3,7 @@ box-sizing:border-box;
 }
 @font-face{
     font-family:'black rocker';
-    src: url('Tribute-Page/fonts/black_rocker/BlackRocker\ .ttf ');
+    src: url('Tribute-Page/fonts/black_rocker/BlackRocker\ .ttf ') format('ttf');
     src: url('Tribute-Page/fonts/web-font-kit/blackrocker_-webfont.woff ') format('woff');
 }
 
