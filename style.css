@@ -3,10 +3,10 @@ box-sizing:border-box;
 }
 @font-face{
     font-family:'black rocker';
-    src: url('fonts/black_rocker/BlackRocker\ .ttf') format('truetype');
+    src: url('../Tribute-Page/fonts/black_rocker/BlackRocker\ .ttf') format('truetype');
 
-    src: url('/fonts/web-font-kit/blackrocker_-webfont.woff2') format('woff2'),
-    url('fonts/web-font-kit/blackrocker_-webfont.woff') format('woff');
+    src: url('../Tribute-Page/fonts/web-font-kit/blackrocker_-webfont.woff2') format('woff2'),
+    url('../Tribute-Page/fonts/web-font-kit/blackrocker_-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
