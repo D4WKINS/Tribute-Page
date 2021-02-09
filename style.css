@@ -6,7 +6,7 @@ box-sizing:border-box;
     src: url('fonts/black_rocker/BlackRocker\ .ttf') format('truetype');
 
     src: url('/fonts/web-font-kit/blackrocker_-webfont.woff2') format('woff2'),
-    url('/fonts/web-font-kit/blackrocker_-webfont.woff') format('woff');
+    url('Tribute-Page/fonts/web-font-kit/blackrocker_-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
